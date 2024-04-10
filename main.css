@@ -3,6 +3,8 @@ p  {
 }
 h1 {
     color: rgb(14, 1, 17);
+    text-align: center;
+    font-size: xx-large;
 
 }
 .Culinária{
@@ -10,6 +12,22 @@ h1 {
     text-shadow: 2ex;
 }
 #Receitas{
-    text-align: center;
 
+    background: color(srgb red green blue);
+
+}
+
+.Culinária{
+
+height: 50px;
+
+}
+.imagem{
+
+    height: 350px;
+    height: 200px;
+}
+.class{
+
+    height: 45px;
 }
