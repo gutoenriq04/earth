@@ -10,6 +10,7 @@ h1 {
 .Culinária{
     color: rgb(48, 48, 3);
     text-shadow: 2ex;
+    text-align: left;
 }
 #Receitas{
 
@@ -20,14 +21,32 @@ h1 {
 .Culinária{
 
 height: 50px;
+text-align: center;
 
 }
 .imagem{
 
-    height: 350px;
+    height: 1000px;
     height: 200px;
 }
 .class{
 
-    height: 45px;
+    height: 30px;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    
+}
+.flex-container{
+    display: flex;
+}
+.linha-1{
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+.linha-0{
+    flex-direction: row-reverse;
+    justify-content: space-around;
 }
