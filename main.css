@@ -1,5 +1,6 @@
 p  {
     font-size: x-large;
+    text-align: center;
 }
 h1 {
     color: rgb(14, 1, 17);
@@ -15,7 +16,7 @@ h1 {
 #Receitas{
 
     background: color(srgb red green blue);
-
+    text-align: center;
 }
 
 .Culinária{
@@ -49,4 +50,25 @@ h2{
 .linha-0{
     flex-direction: row-reverse;
     justify-content: space-around;
+}
+.flex-container{
+    display: flex;
+}
+.linha-2{
+
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+.flex-container{
+    display: flex;
+}
+.linha-3{
+
+    flex-direction: row-reverse;
+    justify-content: space-around;
+
+}
+.imagem{
+    height: 300px;
+    height: 200px;
 }
